@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rian</h1>
 <h3 align="center">A Back-End developer from Rio de Janeiro</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.riannegreiros.dev/projects](https://www.riannegreiros.dev/projects)
+- 👨‍💻 All of my projects are available at [riannegreiros.dev/projects](https://www.riannegreiros.dev/projects)
 
-- 📝 I regularly write articles on [https://www.riannegreiros.dev](https://www.riannegreiros.dev)
+- 📝 I regularly write articles on [riannegreiros.dev](https://www.riannegreiros.dev)
 
 - 📫 How to reach me **riannegreiros@gmail.com**
 
