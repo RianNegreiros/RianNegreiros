@@ -45,16 +45,18 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RianNegreiros&show_icons=true&theme=dracula&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RianNegreiros&layout=compact&langs_count=8&card_width=320&theme=dracula&hide_border=true" />
 </a>
+</p>
 
-[![Rian Negreiros GitHub Streak](https://github-readme-streak-stats-ecru.vercel.app?user=RianNegreiros&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+<p align="center"> <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats-ecru.vercel.app?user=RianNegreiros&theme=dracula&hide_border=true" alt="riannegreiros" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RianNegreiros" alt="riannegreiros" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RianNegreiros&column=3&margin-w=15&margin-h=15&theme=dracula" alt="riannegreiros" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Riannegreiros&label=Profile%20views&color=0e75b6&style=flat" alt="riannegreiros" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Riannegreiros&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="riannegreiros" /> </p>
 
