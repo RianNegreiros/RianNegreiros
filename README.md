@@ -9,6 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Web Servers e Networking em Go](https://dev.to/riannegreiros/web-servers-e-networking-em-go-3l8h)
+- [Como armazerna imagens Docker no Azure Container Registry usando o GitHub Actions](https://dev.to/riannegreiros/armazenando-imagens-docker-para-azure-container-registry-usando-o-github-actions-3lja)
+- [Usando o MongoDB com C# e .Net Core](https://dev.to/riannegreiros/usando-o-mongodb-com-c-e-net-core-2651)
+- [Criação de URLs amigáveis &lpar;slugs&rpar; a partir de strings no ASP.NET Core](https://dev.to/riannegreiros/criacao-de-urls-amigaveis-slugs-a-partir-de-strings-no-aspnet-core-2lp6)
+- [O que é o Git e por que usá-lo?](https://dev.to/riannegreiros/o-que-e-o-git-e-por-que-usa-lo-419c)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
