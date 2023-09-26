@@ -61,5 +61,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RianNegreiros&column=-1&margin-w=15&margin-h=15&theme=dracula&no-frame=true" alt="riannegreiros" /></a> </p>
 --->
 
+<!---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Riannegreiros&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="riannegreiros" /> </p>
+-->
 
