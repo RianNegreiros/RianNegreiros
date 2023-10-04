@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Web Servers e Networking em Go](https://dev.to/riannegreiros/web-servers-e-networking-em-go-3l8h)
 - [Serviços Web e Networking em Go](https://www.riannegreiros.dev/post/web-servers-e-networking-em-go)
-- [Como armazerna imagens Docker no Azure Container Registry usando o GitHub Actions](https://dev.to/riannegreiros/armazenando-imagens-docker-para-azure-container-registry-usando-o-github-actions-3lja)
 - [Como subir imagem Docker para Azure Container Registry usando o GitHub Actions](https://www.riannegreiros.dev/post/subir-imagem-docker-para-azure-container-registry-usando-o-github-actions)
 - [Arquitetura Onion/Hexagonal](https://www.riannegreiros.dev/post/onion-architecture)
+- [O que é uma API RESTful e como projetar uma?](https://www.riannegreiros.dev/post/o-que-e-uma-api-restful-e-como-projetar-uma)
+- [Introdução à autenticação na Web](https://www.riannegreiros.dev/post/introducao-a-autenticacao-na-web)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
