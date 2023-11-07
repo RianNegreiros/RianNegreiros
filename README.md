@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Fundamentos da Computação em Nuvem](https://www.riannegreiros.dev/post/fundamentos-da-computacao-em-nuvem)
 - [Plataformas de Desenvolvimento em Nuvem: Facilitando a Vida dos Desenvolvedores](https://www.riannegreiros.dev/post/plataformas-de-desenvolvimento-em-nuvem-facilitando-a-vida-dos-desenvolvedores)
 - [Networking em Go](https://www.riannegreiros.dev/post/web-servers-e-networking-em-go)
 - [Como subir imagem Docker para Azure Container Registry usando o GitHub Actions](https://www.riannegreiros.dev/post/subir-imagem-docker-para-azure-container-registry-usando-o-github-actions)
 - [Arquitetura Onion/Hexagonal](https://www.riannegreiros.dev/post/onion-architecture)
-- [O que é uma API RESTful e como projetar uma?](https://www.riannegreiros.dev/post/o-que-e-uma-api-restful-e-como-projetar-uma)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
