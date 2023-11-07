@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [riannegreiros.dev/projects](https://www.riannegreiros.dev/projects)
 
-- 📝 I regularly write articles on [riannegreiros.dev](https://www.riannegreiros.dev)
+- 📝 I regularly write articles on [riannegreiros.dev](https://www.riannegreiros.dev/posts)
 
 - 📫 How to reach me **riannegreiros@gmail.com**
 
