@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [HackerRank: Compare The Triplets em Go](https://www.riannegreiros.dev/post/hackerrank-compare-the-triplets-em-go)
-- [Conceitos Importantes da Computação em Nuvem](https://www.riannegreiros.dev/post/conceitos-importantes-da-computacao-em-nuvem)
-- [Fundamentos da Computação em Nuvem](https://www.riannegreiros.dev/post/fundamentos-da-computacao-em-nuvem)
-- [Plataformas de Desenvolvimento em Nuvem: Facilitando a Vida dos Desenvolvedores](https://www.riannegreiros.dev/post/plataformas-de-desenvolvimento-em-nuvem-facilitando-a-vida-dos-desenvolvedores)
-- [Networking em Go](https://www.riannegreiros.dev/post/web-servers-e-networking-em-go)
+- [HackerRank: Compare The Triplets em Go](https://www.riannegreiros.dev/posts/hackerrank-compare-the-triplets-em-go)
+- [Conceitos Importantes da Computação em Nuvem](https://www.riannegreiros.dev/posts/conceitos-importantes-da-computacao-em-nuvem)
+- [Fundamentos da Computação em Nuvem](https://www.riannegreiros.dev/posts/fundamentos-da-computacao-em-nuvem)
+- [Plataformas de Desenvolvimento em Nuvem: Facilitando a Vida dos Desenvolvedores](https://www.riannegreiros.dev/posts/plataformas-de-desenvolvimento-em-nuvem-facilitando-a-vida-dos-desenvolvedores)
+- [Networking em Go](https://www.riannegreiros.dev/posts/web-servers-e-networking-em-go)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
