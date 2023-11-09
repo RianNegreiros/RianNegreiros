@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Fundamentos Básicos de Back-end com Node.js e Express.js](https://www.riannegreiros.dev/posts/fundamentos-basicos-de-back-end-com-nodejs-e-expressjs)
 - [Reverse a List of Strings on C# without Reverse&lpar;&rpar;](https://www.riannegreiros.dev/posts/reverse-a-list-of-strings-on-c-without-reverse)
 - [Programação Backend: Fundamentos da Linguagem JavaScript](https://www.riannegreiros.dev/posts/programacao-backend-fundamentos-da-linguagem-javascript)
 - [Compare The Triplets em Go](https://www.riannegreiros.dev/posts/hackerrank-compare-the-triplets-em-go)
 - [Conceitos Importantes da Computação em Nuvem](https://www.riannegreiros.dev/posts/conceitos-importantes-da-computacao-em-nuvem)
-- [Fundamentos da Computação em Nuvem](https://www.riannegreiros.dev/posts/fundamentos-da-computacao-em-nuvem)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
