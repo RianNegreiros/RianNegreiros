@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Como a Injeção de Dependência Facilita Testes Unitários em .NET](https://www.riannegreiros.dev/posts/como-a-injecao-de-dependencia-facilita-testes-unitarios-em-net)
 - [Explorando os Princípios Fundamentais da Computação](https://www.riannegreiros.dev/posts/explorando-os-principios-fundamentais-da-computacao)
 - [MongoDB, Mongoose e REST com Node.js](https://www.riannegreiros.dev/posts/mongodb-mongoose-e-rest-com-nodejs)
 - [Fundamentos Básicos de Back-end com Node.js e Express.js](https://www.riannegreiros.dev/posts/fundamentos-basicos-de-back-end-com-nodejs-e-expressjs)
 - [Reverse a List of Strings on C# without Reverse&lpar;&rpar;](https://www.riannegreiros.dev/posts/reverse-a-list-of-strings-on-c-without-reverse)
-- [Programação Backend: Fundamentos da Linguagem JavaScript](https://www.riannegreiros.dev/posts/programacao-backend-fundamentos-da-linguagem-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
