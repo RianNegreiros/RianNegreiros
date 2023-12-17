@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [riannegreiros.dev/posts](https://www.riannegreiros.dev/posts)
 
-- 📫 How to reach me **riannegreiros@gmail.com**
+- 📫 How to reach me **riannegreiros@protonmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
