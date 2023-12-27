@@ -16,23 +16,13 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: "18"
-          token: ${{ secrets.PROFILE_README_TOKEN }}
       - name: Install Dependencies
         run: npm install
       - name: Rebuild README.md File
         run: npm run start
-      - name: Set up Git
-        run: |
-          git config --global user.email "riannegreiros@gmail.com"
-          git config --global user.name "Rian Negreiros Dos Santos"
-          echo "https://riannegreiros:${{ secrets.PAT_TOKEN }}@github.com" > .git-credentials
       - name: Check for Changes
         run: |
-          if [[ -n "$(git status --porcelain)" ]]; then
-            git add .
-            git diff
-            git commit -m "docs: auto-update README.md" || exit 0
-            git push
-          else
-            echo "No changes to commit."
-          fi
+          git add .
+          git diff
+          git commit -m "docs: auto-update README.md" || exit 0
+          git push

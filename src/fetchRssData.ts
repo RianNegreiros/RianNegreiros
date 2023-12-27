@@ -11,14 +11,7 @@ export async function fetchRssData(url: string): Promise<string> {
     return `<li><a href=${item.link} target="_blank" rel="noopener noreferrer">${item.title}</a> (${publishedDate}).</li>`;
   });
 
-  const readMoreLink = url.endsWith("rss.xml")
-    ? `Read more blog posts: ${url.replace(/\/rss.xml$/, "")}`
-    : '';
+  const readMoreLink = url.endsWith('rss') ? `<p>Leia mais posts: <a href="${url.replace(/\/rss$/, '')}" target="_blank" rel="noopener noreferrer">riannegreiros.dev</a>.</p>` : '';
 
-  return `
-    <ul>
-      ${list.join("")}
-    </ul>\n
-    ${readMoreLink}.
-  `;
+  return `<ul>${list.join('\n')}</ul>\n${readMoreLink}\n`;
 }

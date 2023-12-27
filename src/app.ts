@@ -37,19 +37,20 @@ async function generateMarkdown() {
 
   ---\n
 
-  ## Destaques 
+## Destaques 
 
-  <details>\n
-  <summary>Blogposts recentes</summary>\n
-  <br />
-  ${await fetchRssData(blogFeedUrl)}\n
-  </details>\n
+<details>
+  <summary>Posts recentes</summary>
+
+  ${await fetchRssData(blogFeedUrl)}
+</details>
 
   ---\n
-
-  <div align="center">\n
-    <a href="https://riannegreiros.dev" target="_blank" rel="noopener noreferrer"><img src="https://riannegreiros.dev/favicon.ico" width="30" /></a>\n
-  </div>`;
+<p align="center">
+  <a href="https://riannegreiros.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://riannegreiros.dev/favicon.ico" width="30" />
+  </a>
+</p>`;
 
   const result = md.render(markdownText);
 
