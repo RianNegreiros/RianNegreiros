@@ -20,9 +20,11 @@ jobs:
         run: npm install
       - name: Rebuild README.md File
         run: npm run start
-      - name: Check for Changes
-        run: |
+      - name: Commit and Push if Changed
+        run: |-
           git add .
           git diff
-          git commit -m "docs: auto-update README.md" || exit 0
+          git config --global user.email "riannegreiros@gmail.com"
+          git config --global user.name "Rian Negreiros Dos Santos"
+          git commit -m "docs: auto-update README.md" -a || exit 0
           git push
