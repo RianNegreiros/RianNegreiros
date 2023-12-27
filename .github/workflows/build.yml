@@ -20,6 +20,13 @@ jobs:
         run: npm install
       - name: Rebuild README.md File
         run: npm run start
+      - name: Debug Information
+        run: |
+            git status
+            git branch -av
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_README_TOKEN }}
+
       - name: Set up Git
         run: |
           git config --global user.email "riannegreiros@gmail.com"
