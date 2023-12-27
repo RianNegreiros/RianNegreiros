@@ -71,7 +71,7 @@ function generateMarkdown() {
 ## Destaques 
 
 <details>
-  <summary>Blogposts recentes</summary>
+  <summary>Posts recentes</summary>
 
   ${yield (0, fetchRssData_1.fetchRssData)(blogFeedUrl)}
 </details>
