@@ -15,7 +15,7 @@
 <li><a href=https://www.riannegreiros.dev/posts/introducao-a-c-variaveis target="_blank" rel="noopener noreferrer">Introdução a C#: Variáveis</a> (23/11/2023).</li>
 <li><a href=https://www.riannegreiros.dev/posts/como-a-injecao-de-dependencia-facilita-testes-unitarios-em-net target="_blank" rel="noopener noreferrer">Como a Injeção de Dependência Facilita Testes Unitários em .NET</a> (20/11/2023).</li>
 <li><a href=https://www.riannegreiros.dev/posts/explorando-os-principios-fundamentais-da-computacao target="_blank" rel="noopener noreferrer">Explorando os Princípios Fundamentais da Computação</a> (16/11/2023).</li></ul>
-<p>Leia mais posts em: <a href="riannegreiros.dev/posts" target="_blank" rel="noopener noreferrer">riannegreiros.dev</a></p>
+<p>Leia mais posts em: <a href="https://www.riannegreiros.dev/posts" target="_blank" rel="noopener noreferrer">riannegreiros.dev</a></p>
 <hr>
 <p align="center">
   <a href="https://riannegreiros.dev" target="_blank" rel="noopener noreferrer">
