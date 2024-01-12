@@ -10,9 +10,9 @@
 <h2>Posts recentes</h2>
   <ul><li><a href=https://www.riannegreiros.dev/posts/introducao-a-programacao-orientada-a-objetos target="_blank" rel="noopener noreferrer">Introdução à Programação Orientada a Objetos</a> (12/12/2023).</li>
 <li><a href=https://www.riannegreiros.dev/posts/coleta-de-lixogarbage-collector-em-net target="_blank" rel="noopener noreferrer">Coleta de Lixo(Garbage Collector) em .Net</a> (24/11/2023).</li>
-<li><a href=https://www.riannegreiros.dev/posts/introducao-a-c-variaveis target="_blank" rel="noopener noreferrer">Introdução a C#: Variáveis</a> (23/11/2023).</li>
 <li><a href=https://www.riannegreiros.dev/posts/como-a-injecao-de-dependencia-facilita-testes-unitarios-em-net target="_blank" rel="noopener noreferrer">Como a Injeção de Dependência Facilita Testes Unitários</a> (20/11/2023).</li>
-<li><a href=https://www.riannegreiros.dev/posts/explorando-os-principios-fundamentais-da-computacao target="_blank" rel="noopener noreferrer">Explorando os Princípios Fundamentais da Computação</a> (16/11/2023).</li></ul>
+<li><a href=https://www.riannegreiros.dev/posts/explorando-os-principios-fundamentais-da-computacao target="_blank" rel="noopener noreferrer">Explorando os Princípios Fundamentais da Computação</a> (16/11/2023).</li>
+<li><a href=https://www.riannegreiros.dev/posts/reverse-a-list-of-strings-on-c-without-reverse target="_blank" rel="noopener noreferrer">Reverse a List of Strings on C# without Reverse()</a> (8/11/2023).</li></ul>
 <p>Leia mais posts em: <a href="https://www.riannegreiros.dev/posts" target="_blank" rel="noopener noreferrer">riannegreiros.dev</a></p>
 <hr>
 <p align="center">
