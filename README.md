@@ -12,7 +12,7 @@
 <li><a href=https://www.riannegreiros.dev/posts/coleta-de-lixogarbage-collector-em-net target="_blank" rel="noopener noreferrer">Coleta de Lixo(Garbage Collector) em .Net</a> (24/11/2023).</li>
 <li><a href=https://www.riannegreiros.dev/posts/como-a-injecao-de-dependencia-facilita-testes-unitarios-em-net target="_blank" rel="noopener noreferrer">Como a Injeção de Dependência Facilita Testes Unitários</a> (20/11/2023).</li>
 <li><a href=https://www.riannegreiros.dev/posts/explorando-os-principios-fundamentais-da-computacao target="_blank" rel="noopener noreferrer">Explorando os Princípios Fundamentais da Computação</a> (16/11/2023).</li>
-<li><a href=https://www.riannegreiros.dev/posts/reverse-a-list-of-strings-on-c-without-reverse target="_blank" rel="noopener noreferrer">Reverse a List of Strings on C# without Reverse()</a> (8/11/2023).</li></ul>
+<li><a href=https://www.riannegreiros.dev/posts/conceitos-importantes-da-computacao-em-nuvem target="_blank" rel="noopener noreferrer">Conceitos Importantes da Computação em Nuvem</a> (7/11/2023).</li></ul>
 <p>Leia mais posts em: <a href="https://www.riannegreiros.dev/posts" target="_blank" rel="noopener noreferrer">riannegreiros.dev</a></p>
 <hr>
 <p align="center">
