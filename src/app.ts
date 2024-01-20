@@ -26,7 +26,7 @@ async function generateMarkdown() {
 
   ---\n
 
-  Desenvolvedor back-end do Rio de Janeiro. Iniciei minha jornada na adolescência, configurando servidores para o jogo DayZ usando Batchfile, XML e JSON. Mas só após terminar o ensino médio, por influência do meu irmão mais velho, que já trabalhava na área, estou embarcando na jornada do desenvolvimento, ansioso para aprender e contribuir para a comunidade.
+  Desenvolvedor back-end do Rio de Janeiro. Iniciei minha jornada na adolescência, configurando servidores para o jogo DayZ usando Batchfile, C, XML e JSON. Mas só após terminar o ensino médio, por influência do meu irmão mais velho, que já trabalhava na área, estou embarcando na jornada do desenvolvimento, ansioso para aprender e contribuir para a comunidade.
 
   ---\n
 
