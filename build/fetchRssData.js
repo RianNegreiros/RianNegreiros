@@ -23,7 +23,7 @@ function fetchRssData(url) {
             const publishedDate = `${date.getDate()}/${date.getMonth() + 1}/${date.getFullYear()}`;
             return `<li><a href=${item.link} target="_blank" rel="noopener noreferrer">${item.title}</a> (${publishedDate}).</li>`;
         });
-        const readMoreLink = `<p>Leia mais posts em: <a href="https://www.riannegreiros.dev/posts" target="_blank" rel="noopener noreferrer">riannegreiros.dev</a></p>`;
+        const readMoreLink = `<p>Leia mais posts em: <a href="https://www.riannegreiros.dev/posts" target="_blank" rel="noopener noreferrer">riannegreiros.dev/posts</a></p>`;
         return `<ul>${list.join('\n')}</ul>\n${readMoreLink}\n`;
     });
 }
