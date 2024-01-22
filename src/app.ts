@@ -24,7 +24,7 @@ async function generateMarkdown() {
   const markdownText = `
 <div align="center">
 
-  ${websiteBadge} ${hashnodeBadge} ${linkedinBadge}
+  ${websiteBadge} ${hashnodeBadge} ${linkedinBadge} ${curriculumBagde}
 
   ---
 
