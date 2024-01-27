@@ -12,9 +12,9 @@
 </div>
 <hr>
 <h2>Posts recentes</h2>
-<ul><li><a href=https://www.riannegreiros.dev/posts/introducao-a-programacao-orientada-a-objetos target="_blank" rel="noopener noreferrer">Introdução à Programação Orientada a Objetos</a> (12/12/2023).</li>
+<ul><li><a href=https://www.riannegreiros.dev/posts/cookies-e-sessoes-no-aspnet-core target="_blank" rel="noopener noreferrer">Cookies e Sessões no ASP.NET Core</a> (26/1/2024).</li>
+<li><a href=https://www.riannegreiros.dev/posts/introducao-a-programacao-orientada-a-objetos target="_blank" rel="noopener noreferrer">Introdução à Programação Orientada a Objetos</a> (12/12/2023).</li>
 <li><a href=https://www.riannegreiros.dev/posts/coleta-de-lixogarbage-collector-em-net target="_blank" rel="noopener noreferrer">Coleta de Lixo(Garbage Collector) em .Net</a> (24/11/2023).</li>
 <li><a href=https://www.riannegreiros.dev/posts/como-a-injecao-de-dependencia-facilita-testes-unitarios-em-net target="_blank" rel="noopener noreferrer">Como a Injeção de Dependência Facilita Testes Unitários</a> (20/11/2023).</li>
-<li><a href=https://www.riannegreiros.dev/posts/explorando-os-principios-fundamentais-da-computacao target="_blank" rel="noopener noreferrer">Explorando os Princípios Fundamentais da Computação</a> (16/11/2023).</li>
-<li><a href=https://www.riannegreiros.dev/posts/conceitos-importantes-da-computacao-em-nuvem target="_blank" rel="noopener noreferrer">Conceitos Importantes da Computação em Nuvem</a> (7/11/2023).</li></ul>
+<li><a href=https://www.riannegreiros.dev/posts/explorando-os-principios-fundamentais-da-computacao target="_blank" rel="noopener noreferrer">Explorando os Princípios Fundamentais da Computação</a> (16/11/2023).</li></ul>
 <p>Leia mais posts em: <a href="https://www.riannegreiros.dev/posts" target="_blank" rel="noopener noreferrer">riannegreiros.dev/posts</a></p>
