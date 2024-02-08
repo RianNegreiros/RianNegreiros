@@ -12,9 +12,9 @@
 </div>
 <hr>
 <h2>Posts recentes</h2>
-<ul><li><a href=https://www.riannegreiros.dev/posts/bancos-de-dados-no-desenvolvimento-web target="_blank" rel="noopener noreferrer">Bancos de dados no desenvolvimento Web</a> (16/8/2023).</li>
-<li><a href=https://www.riannegreiros.dev/posts/criacao-de-urls-amigaveis-slugs-a-partir-de-strings-no-aspnet-core target="_blank" rel="noopener noreferrer">Criação de URLs amigáveis (slugs) a partir de strings no ASP.NET Core</a> (17/8/2023).</li>
-<li><a href=https://www.riannegreiros.dev/posts/o-que-e-o-git-e-por-que-usa-lo target="_blank" rel="noopener noreferrer">O que é o Git e por que usá-lo?</a> (18/8/2023).</li>
-<li><a href=https://www.riannegreiros.dev/posts/usando-o-mongodb-com-c-e-net-core target="_blank" rel="noopener noreferrer">Usando o MongoDB com C# e .Net Core</a> (19/8/2023).</li>
-<li><a href=https://www.riannegreiros.dev/posts/o-que-e-um-navegador-e-como-funciona target="_blank" rel="noopener noreferrer">O que é um Navegador e Como Funciona?</a> (20/8/2023).</li></ul>
+<ul><li><a href=https://www.riannegreiros.dev/posts/criando-um-chatbot-com-aspnet-core-8-e-palm-2-api target="_blank" rel="noopener noreferrer">Criando um chatbot com ASP.NET Core 8 e PaLM 2 API</a> (8/2/2024).</li>
+<li><a href=https://www.riannegreiros.dev/posts/building-a-chatbot-with-aspnet-core-8-and-palm-2-api target="_blank" rel="noopener noreferrer">Building a Chatbot with ASP.NET Core 8 and PaLM 2 API</a> (8/2/2024).</li>
+<li><a href=https://www.riannegreiros.dev/posts/cookies-e-sessoes-no-aspnet-core target="_blank" rel="noopener noreferrer">Cookies e Sessões no ASP.NET Core</a> (26/1/2024).</li>
+<li><a href=https://www.riannegreiros.dev/posts/introducao-a-programacao-orientada-a-objetos target="_blank" rel="noopener noreferrer">Introdução à Programação Orientada a Objetos</a> (12/12/2023).</li>
+<li><a href=https://www.riannegreiros.dev/posts/coleta-de-lixogarbage-collector-em-net target="_blank" rel="noopener noreferrer">Coleta de Lixo(Garbage Collector) em .Net</a> (24/11/2023).</li></ul>
 <p>Leia mais posts em: <a href="https://www.riannegreiros.dev/posts" target="_blank" rel="noopener noreferrer">riannegreiros.dev/posts</a></p>
