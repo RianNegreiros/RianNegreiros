@@ -6,7 +6,7 @@ const md = require("markdown-it")({
 });
 import { fetchRssData } from "./fetchRssData";
 
-const blogFeedUrl = "https://personalwebsitebackend.azurewebsites.net/api/rss";
+const blogFeedUrl = "https://personalwebsitebackend.azurewebsites.net/api/posts/rss";
 const githubUsername = "RianNegreiros";
 const websiteUrl = "https://riannegreiros.dev";
 const blogUrl = "https://riannegreiros.dev/posts";
