@@ -12,9 +12,9 @@
 </div>
 <hr>
 <h2>Posts recentes</h2>
-<ul><li><a href=https://www.riannegreiros.dev/posts/bancos-de-dados-no-desenvolvimento-web target="_blank" rel="noopener noreferrer">Bancos de dados no desenvolvimento Web</a> (NaN/NaN/NaN).</li>
-<li><a href=https://www.riannegreiros.dev/posts/criacao-de-urls-amigaveis-slugs-a-partir-de-strings-no-aspnet-core target="_blank" rel="noopener noreferrer">Criação de URLs amigáveis (slugs) a partir de strings no ASP.NET Core</a> (NaN/NaN/NaN).</li>
-<li><a href=https://www.riannegreiros.dev/posts/o-que-e-o-git-e-por-que-usa-lo target="_blank" rel="noopener noreferrer">O que é o Git e por que usá-lo?</a> (NaN/NaN/NaN).</li>
-<li><a href=https://www.riannegreiros.dev/posts/usando-o-mongodb-com-c-e-net-core target="_blank" rel="noopener noreferrer">Usando o MongoDB com C# e .Net Core</a> (NaN/NaN/NaN).</li>
-<li><a href=https://www.riannegreiros.dev/posts/o-que-e-um-navegador-e-como-funciona target="_blank" rel="noopener noreferrer">O que é um Navegador e Como Funciona?</a> (NaN/NaN/NaN).</li></ul>
+<ul><li><a href=https://www.riannegreiros.dev/posts/bancos-de-dados-no-desenvolvimento-web target="_blank" rel="noopener noreferrer">Bancos de dados no desenvolvimento Web</a> (16/8/2023).</li>
+<li><a href=https://www.riannegreiros.dev/posts/criacao-de-urls-amigaveis-slugs-a-partir-de-strings-no-aspnet-core target="_blank" rel="noopener noreferrer">Criação de URLs amigáveis (slugs) a partir de strings no ASP.NET Core</a> (17/8/2023).</li>
+<li><a href=https://www.riannegreiros.dev/posts/o-que-e-o-git-e-por-que-usa-lo target="_blank" rel="noopener noreferrer">O que é o Git e por que usá-lo?</a> (18/8/2023).</li>
+<li><a href=https://www.riannegreiros.dev/posts/usando-o-mongodb-com-c-e-net-core target="_blank" rel="noopener noreferrer">Usando o MongoDB com C# e .Net Core</a> (19/8/2023).</li>
+<li><a href=https://www.riannegreiros.dev/posts/o-que-e-um-navegador-e-como-funciona target="_blank" rel="noopener noreferrer">O que é um Navegador e Como Funciona?</a> (20/8/2023).</li></ul>
 <p>Leia mais posts em: <a href="https://www.riannegreiros.dev/posts" target="_blank" rel="noopener noreferrer">riannegreiros.dev/posts</a></p>
