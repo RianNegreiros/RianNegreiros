@@ -12,7 +12,7 @@
 </div>
 <hr>
 <h2>Posts recentes</h2>
-<ul><li><a href=https://www.riannegreiros.dev/posts/criando-um-chatbot-com-aspnet-core-8-e-palm-2-api target="_blank" rel="noopener noreferrer">Criando um chatbot com ASP.NET Core 8 e PaLM 2 API</a> (8/2/2024).</li>
+<ul><li><a href=https://www.riannegreiros.dev/posts/criando-um-chatbot-com-aspnet-core-8-e-palm-2-api target="_blank" rel="noopener noreferrer">Criando um ChatBot com ASP.NET Core 8 e PaLM 2 API</a> (8/2/2024).</li>
 <li><a href=https://www.riannegreiros.dev/posts/building-a-chatbot-with-aspnet-core-8-and-palm-2-api target="_blank" rel="noopener noreferrer">Building a Chatbot with ASP.NET Core 8 and PaLM 2 API</a> (8/2/2024).</li>
 <li><a href=https://www.riannegreiros.dev/posts/cookies-e-sessoes-no-aspnet-core target="_blank" rel="noopener noreferrer">Cookies e Sessões no ASP.NET Core</a> (26/1/2024).</li>
 <li><a href=https://www.riannegreiros.dev/posts/introducao-a-programacao-orientada-a-objetos target="_blank" rel="noopener noreferrer">Introdução à Programação Orientada a Objetos</a> (12/12/2023).</li>
