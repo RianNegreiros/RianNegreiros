@@ -46,6 +46,10 @@ async function generateMarkdown() {
 ## Posts recentes
 
 ${await fetchRssData(blogFeedUrl)}
+
+## Atividade recente
+
+<!--START_SECTION:activity-->
 `;
 
   const result = md.render(markdownText);

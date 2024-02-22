@@ -9,17 +9,29 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v4
+
       - name: Use Node.js
         uses: actions/setup-node@v4
         with:
           node-version: "18"
+
       - name: Install Dependencies
         run: npm install
+
       - name: Rebuild README.md File
         run: npm run start
+
+      - name: Update this repo's README with recent activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit and Push if Changed
         run: |-
           git add .
