@@ -4,7 +4,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron: "0 6 * * *"
+    - cron: '0 6 * * *'
 
 jobs:
   build:
@@ -19,18 +19,18 @@ jobs:
       - name: Use Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "18"
+          node-version: '18'
+
+      - name: Update this repo's README with recent activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Install Dependencies
         run: npm install
 
       - name: Rebuild README.md File
         run: npm run start
-
-      - name: Update this repo's README with recent activity
-        uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and Push if Changed
         run: |-
