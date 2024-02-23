@@ -18,10 +18,3 @@
 <li><a href=https://www.riannegreiros.dev/posts/introducao-a-programacao-orientada-a-objetos target="_blank" rel="noopener noreferrer">Introdução à Programação Orientada a Objetos</a> (12/12/2023).</li>
 <li><a href=https://www.riannegreiros.dev/posts/coleta-de-lixogarbage-collector-em-net target="_blank" rel="noopener noreferrer">Coleta de Lixo(Garbage Collector) em .Net</a> (24/11/2023).</li></ul>
 <p>Leia mais posts em: <a href="https://www.riannegreiros.dev/posts" target="_blank" rel="noopener noreferrer">riannegreiros.dev/posts</a></p>
-
----
-
-## Atividade recente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
