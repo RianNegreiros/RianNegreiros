@@ -48,13 +48,6 @@ async function generateMarkdown() {
 ## Posts recentes
 
 ${recentPostsMarkdown}
-
----
-
-## Atividade recente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 `
 
   const result = md.render(markdownText)
