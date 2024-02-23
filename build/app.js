@@ -33,16 +33,16 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 const fs = __importStar(require("fs"));
-const md = require("markdown-it")({
+const md = require('markdown-it')({
     html: true, // Enable HTML tags in source
     breaks: true, // Convert '\n' in paragraphs into <br>
-    linkify: true // Autoconvert URL-like text to links
+    linkify: true, // Autoconvert URL-like text to links
 });
 const fetchRssData_1 = require("./fetchRssData");
-const blogFeedUrl = "https://personalwebsitebackend.azurewebsites.net/api/posts/rss";
-const githubUsername = "RianNegreiros";
-const websiteUrl = "https://riannegreiros.dev";
-const linkedinUrl = "https://linkedin.com/in/riannegreiros";
+const blogFeedUrl = 'https://api.riannegreiros.dev/api/posts/rss';
+const githubUsername = 'RianNegreiros';
+const websiteUrl = 'https://riannegreiros.dev';
+const linkedinUrl = 'https://linkedin.com/in/riannegreiros';
 function generateMarkdown() {
     return __awaiter(this, void 0, void 0, function* () {
         const websiteBadge = `[![Website Badge](https://img.shields.io/badge/-Website-3B7EBF?style=for-the-badge&logo=amp&logoColor=white)](${websiteUrl})`;
@@ -78,9 +78,14 @@ function generateMarkdown() {
 ## Posts recentes
 
 ${yield (0, fetchRssData_1.fetchRssData)(blogFeedUrl)}
+
+## Atividade recente
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 `;
         const result = md.render(markdownText);
-        fs.writeFile("README.md", result, (error) => {
+        fs.writeFile('README.md', result, (error) => {
             if (error)
                 throw new Error(`Something went wrong: ${error}.`);
             console.log(`✅ README.md file was successfully generated.`);
