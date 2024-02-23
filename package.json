@@ -7,7 +7,8 @@
     "build": "npx tsc",
     "build:watch": "npx tsc-watch",
     "start": "npm run build && node build/app.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format:fix": "prettier --write ."
   },
   "dependencies": {
     "fs": "^0.0.1-security",
@@ -16,6 +17,7 @@
     "tsc-watch": "^6.0.4"
   },
   "devDependencies": {
-    "@types/node": "^20.10.5"
+    "@types/node": "^20.10.5",
+    "prettier": "^3.2.5"
   }
 }
