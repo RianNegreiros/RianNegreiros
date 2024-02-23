@@ -37,9 +37,4 @@
 ## Atividade recente
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#217](https://github.com/RianNegreiros/portfolio/issues/217) in [RianNegreiros/portfolio](https://github.com/RianNegreiros/portfolio)
-2. 🎉 Merged PR [#228](https://github.com/RianNegreiros/portfolio/pull/228) in [RianNegreiros/portfolio](https://github.com/RianNegreiros/portfolio)
-3. 💪 Opened PR [#228](https://github.com/RianNegreiros/portfolio/pull/228) in [RianNegreiros/portfolio](https://github.com/RianNegreiros/portfolio)
-4. ❗ Opened issue [#227](https://github.com/RianNegreiros/portfolio/issues/227) in [RianNegreiros/portfolio](https://github.com/RianNegreiros/portfolio)
-5. 🔒 Closed issue [#206](https://github.com/RianNegreiros/portfolio/issues/206) in [RianNegreiros/portfolio](https://github.com/RianNegreiros/portfolio)
 <!--END_SECTION:activity-->
