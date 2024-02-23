@@ -21,7 +21,7 @@ async function generateMarkdown() {
 
   const recentPostsMarkdown = await fetchRssData(blogFeedUrl);
 
-  const markdownText = `
+  let markdownText = `
 <div align="center">
 
   ${websiteBadge} ${linkedinBadge}
@@ -50,7 +50,7 @@ async function generateMarkdown() {
 ${recentPostsMarkdown}
 `
 
-  markdownText.concat(`
+  markdownText = markdownText.concat(`
 
 ---
 
@@ -59,7 +59,8 @@ ${recentPostsMarkdown}
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-`)
+`);
+
 
   const result = md.render(markdownText)
 
