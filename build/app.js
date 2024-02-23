@@ -80,6 +80,16 @@ function generateMarkdown() {
 
 ${recentPostsMarkdown}
 `;
+        markdownText.concat(`
+
+---
+
+## Atividade recente
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+`);
         const result = md.render(markdownText);
         fs.writeFile('README.md', result, (error) => {
             if (error)
