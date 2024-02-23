@@ -19,8 +19,10 @@ async function generateMarkdown() {
   const githubLanguagesStatsCardDark = `[![GitHub-Languages-Stats-Card-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=${githubUsername}&layout=compact&hide_border=true&card_width=600&hide=typescript&custom_title=GitHub%20Languages%20Stats&title_color=3B7EBF&text_color=FFF&icon_color=3B7EBF&theme=transparent#gh-dark-mode-only)](https://github.com/${githubUsername}/${githubUsername}#gh-dark-mode-only)`
   const githubLanguagesStatsCardLight = `[![GitHub-Languages-Stats-Card-Light](https://github-readme-stats.vercel.app/api/top-langs?username=${githubUsername}&layout=compact&hide_border=true&card_width=600&hide=typescript&custom_title=GitHub%20Languages%20Stats&title_color=3B7EBF&text_color=474A4E&icon_color=3B7EBF&theme=transparent#gh-light-mode-only)](https://github.com/${githubUsername}/${githubUsername}#gh-light-mode-only)`
 
-  const markdownText = `
+  const recentPostsMarkdown = await fetchRssData(blogFeedUrl);
 
+  const markdownText = `
+<div align="center">
 
   ${websiteBadge} ${linkedinBadge}
 
@@ -39,19 +41,20 @@ async function generateMarkdown() {
   ${githubLanguagesStatsCardDark}
   ${githubLanguagesStatsCardLight}
 
-
+</div>
 
 ---
 
 ## Posts recentes
 
-
+${recentPostsMarkdown}
 
 ---
 
 ## Atividade recente
 
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 `
 
   const result = md.render(markdownText)
