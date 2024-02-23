@@ -90,8 +90,7 @@ ${recentPostsMarkdown}
 <!--END_SECTION:activity-->
 
 `);
-        const result = md.render(markdownText);
-        fs.writeFile('README.md', result, (error) => {
+        fs.writeFile('README.md', markdownText, (error) => {
             if (error)
                 throw new Error(`Something went wrong: ${error}.`);
             console.log(`✅ README.md file was successfully generated.`);
