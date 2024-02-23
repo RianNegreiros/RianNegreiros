@@ -20,34 +20,6 @@ async function generateMarkdown() {
   const githubLanguagesStatsCardLight = `[![GitHub-Languages-Stats-Card-Light](https://github-readme-stats.vercel.app/api/top-langs?username=${githubUsername}&layout=compact&hide_border=true&card_width=600&hide=typescript&custom_title=GitHub%20Languages%20Stats&title_color=3B7EBF&text_color=474A4E&icon_color=3B7EBF&theme=transparent#gh-light-mode-only)](https://github.com/${githubUsername}/${githubUsername}#gh-light-mode-only)`
 
   const markdownText = `
-<div align="center">
-
-  ${websiteBadge} ${linkedinBadge}
-
-  ---
-
-  Sou um Desenvolvedor Backend do Rio de Janeiro. Iniciei minha jornada na adolescência, configurando servidores e mods para o jogo DayZ usando Batchfile, Linguagem C, XML e JSON. Mas só após terminar o ensino médio, por influência do meu irmão mais velho, que já trabalhava na área, me guiou a escolha de ingressar na faculdade, dedicando-me integralmente a essa carreira.
-
-  Tenho com experiência em Java, C# e Golang. Tenho foco de trabalhar em aplicações empresarias, por isso estudo as tecnologias e frameworks mais utilizados no mercado, como Spring e .NET Core.
-  
-  Além disso, sou apaixonado por Golang, uma linguagem que me ajudou a aprender muito sobre desenvolvimento de software. Adoro que a maioria das coisas são feitas sem a abstração de um framework, o que me deu uma visão mais profunda de como os sistemas funcionam.  
-  
-  ---
-
-  ${githubStatsCardDark}
-  ${githubStatsCardLight}
-  ${githubLanguagesStatsCardDark}
-  ${githubLanguagesStatsCardLight}
-
-</div>
-
----
-
-## Posts recentes
-
-${await fetchRssData(blogFeedUrl)}
-
----
 
 ## Atividade recente
 
