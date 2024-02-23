@@ -18,11 +18,6 @@
 <li><a href=https://www.riannegreiros.dev/posts/introducao-a-programacao-orientada-a-objetos target="_blank" rel="noopener noreferrer">Introdução à Programação Orientada a Objetos</a> (12/12/2023).</li>
 <li><a href=https://www.riannegreiros.dev/posts/coleta-de-lixogarbage-collector-em-net target="_blank" rel="noopener noreferrer">Coleta de Lixo(Garbage Collector) em .Net</a> (24/11/2023).</li></ul>
 <p>Leia mais posts em: <a href="https://www.riannegreiros.dev/posts" target="_blank" rel="noopener noreferrer">riannegreiros.dev/posts</a></p>
+<hr>
 <h2>Atividade recente</h2>
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#217](https://github.com/RianNegreiros/portfolio/issues/217) in [RianNegreiros/portfolio](https://github.com/RianNegreiros/portfolio)
-2. 🎉 Merged PR [#228](https://github.com/RianNegreiros/portfolio/pull/228) in [RianNegreiros/portfolio](https://github.com/RianNegreiros/portfolio)
-3. 💪 Opened PR [#228](https://github.com/RianNegreiros/portfolio/pull/228) in [RianNegreiros/portfolio](https://github.com/RianNegreiros/portfolio)
-4. ❗ Opened issue [#227](https://github.com/RianNegreiros/portfolio/issues/227) in [RianNegreiros/portfolio](https://github.com/RianNegreiros/portfolio)
-5. 🔒 Closed issue [#206](https://github.com/RianNegreiros/portfolio/issues/206) in [RianNegreiros/portfolio](https://github.com/RianNegreiros/portfolio)
-<!--END_SECTION:activity-->

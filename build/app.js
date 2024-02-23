@@ -79,10 +79,11 @@ function generateMarkdown() {
 
 ${yield (0, fetchRssData_1.fetchRssData)(blogFeedUrl)}
 
+---
+
 ## Atividade recente
 
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 `;
         const result = md.render(markdownText);
         fs.writeFile('README.md', result, (error) => {
