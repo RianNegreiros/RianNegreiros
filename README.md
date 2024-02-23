@@ -1,5 +1,5 @@
 <div align="center">
-<p><a href="https://riannegreiros.dev"><img src="https://img.shields.io/badge/-Website-3B7EBF?style=for-the-badge&amp;logo=amp&amp;logoColor=white" alt="Website Badge"></a> <a href="https://linkedin.com/in/riannegreiros"><img src="https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" alt="Linkedin Badge"></a></p>
+<p>[![Website Badge](<a href="https://img.shields.io/badge/-Website-3B7EBF?style=for-the-badge&amp;logo=amp&amp;logoColor=white%5C">https://img.shields.io/badge/-Website-3B7EBF?style=for-the-badge&amp;logo=amp&amp;logoColor=white\</a>)](<a href="https://riannegreiros.dev">https://riannegreiros.dev</a>) [![Linkedin Badge](<a href="https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white%5C">https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white\</a>)](<a href="https://linkedin.com/in/riannegreiros%5C">https://linkedin.com/in/riannegreiros\</a>)</p>
 <hr>
 <p>Sou um Desenvolvedor Backend do Rio de Janeiro. Iniciei minha jornada na adolescência, configurando servidores e mods para o jogo DayZ usando Batchfile, Linguagem C, XML e JSON. Mas só após terminar o ensino médio, por influência do meu irmão mais velho, que já trabalhava na área, me guiou a escolha de ingressar na faculdade, dedicando-me integralmente a essa carreira.</p>
 <p>Tenho com experiência em Java, C# e Golang. Tenho foco de trabalhar em aplicações empresarias, por isso estudo as tecnologias e frameworks mais utilizados no mercado, como Spring e .NET Core.</p>
@@ -21,9 +21,3 @@
 <hr>
 <h2>Atividade recente</h2>
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#217](https://github.com/RianNegreiros/portfolio/issues/217) in [RianNegreiros/portfolio](https://github.com/RianNegreiros/portfolio)
-2. 🎉 Merged PR [#228](https://github.com/RianNegreiros/portfolio/pull/228) in [RianNegreiros/portfolio](https://github.com/RianNegreiros/portfolio)
-3. 💪 Opened PR [#228](https://github.com/RianNegreiros/portfolio/pull/228) in [RianNegreiros/portfolio](https://github.com/RianNegreiros/portfolio)
-4. ❗ Opened issue [#227](https://github.com/RianNegreiros/portfolio/issues/227) in [RianNegreiros/portfolio](https://github.com/RianNegreiros/portfolio)
-5. 🔒 Closed issue [#206](https://github.com/RianNegreiros/portfolio/issues/206) in [RianNegreiros/portfolio](https://github.com/RianNegreiros/portfolio)
-<!--END_SECTION:activity-->
