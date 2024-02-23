@@ -6,7 +6,7 @@ const md = require('markdown-it')({
 })
 import { fetchRssData } from './fetchRssData'
 
-const blogFeedUrl = 'https://api.riannegreiros/api/posts/rss'
+const blogFeedUrl = 'https://api.riannegreiros.dev/api/posts/rss'
 const githubUsername = 'RianNegreiros'
 const websiteUrl = 'https://riannegreiros.dev'
 const linkedinUrl = 'https://linkedin.com/in/riannegreiros'
