@@ -80,16 +80,6 @@ function generateMarkdown() {
 
 ${recentPostsMarkdown}
 `;
-        markdownText = markdownText.concat(`
-
----
-
-## Atividade recente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-`);
         fs.writeFile('README.md', markdownText, (error) => {
             if (error)
                 throw new Error(`Something went wrong: ${error}.`);
@@ -98,3 +88,7 @@ ${recentPostsMarkdown}
     });
 }
 generateMarkdown();
+// ---
+// ## Atividade recente
+// <!--START_SECTION:activity-->
+// <!--END_SECTION:activity-->
