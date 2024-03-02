@@ -48,13 +48,6 @@ async function generateMarkdown() {
 ## Posts recentes
 
 ${recentPostsMarkdown}
-
----
-
-## Atividade recente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 `
 
   fs.writeFile('README.md', markdownText, (error) => {
@@ -64,3 +57,10 @@ ${recentPostsMarkdown}
 }
 
 generateMarkdown()
+
+// ---
+
+// ## Atividade recente
+
+// <!--START_SECTION:activity-->
+// <!--END_SECTION:activity-->
