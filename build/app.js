@@ -39,7 +39,7 @@ const md = require('markdown-it')({
     linkify: true, // Autoconvert URL-like text to links
 });
 const fetchRssData_1 = require("./fetchRssData");
-const blogFeedUrl = 'https://api.riannegreiros.dev/api/posts/rss';
+const blogFeedUrl = 'https://api.riannegreiros.dev/api/rss';
 const githubUsername = 'RianNegreiros';
 const websiteUrl = 'https://riannegreiros.dev';
 const linkedinUrl = 'https://linkedin.com/in/riannegreiros';
