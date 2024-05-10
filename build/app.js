@@ -39,7 +39,7 @@ const md = require('markdown-it')({
     linkify: true, // Autoconvert URL-like text to links
 });
 const fetchRssData_1 = require("./fetchRssData");
-const blogFeedUrl = 'https://api.riannegreiros.dev/api/rss';
+const blogFeedUrl = 'https://rnds-portfolio-api.azurewebsites.net/api/rss';
 const githubUsername = 'RianNegreiros';
 const websiteUrl = 'https://riannegreiros.dev';
 const linkedinUrl = 'https://linkedin.com/in/riannegreiros';
@@ -88,7 +88,3 @@ ${recentPostsMarkdown}
     });
 }
 generateMarkdown();
-// ---
-// ## Atividade recente
-// <!--START_SECTION:activity-->
-// <!--END_SECTION:activity-->
