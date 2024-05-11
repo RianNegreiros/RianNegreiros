@@ -24,10 +24,10 @@
 
 ## Posts recentes
 
-<ul><li><a href=https://riannegreiros.dev/posts/saml-security-assertion-markup-language-identificacao-e-acesso-corporativo target="_blank" rel="noopener noreferrer">Single Sign-On com SAML: Simplificando o Acesso a Múltiplos Serviços</a> (9/5/2024).</li>
+<ul><li><a href=https://riannegreiros.dev/posts/oauth-simplificando-a-gestao-de-identidade-e-credenciais target="_blank" rel="noopener noreferrer">OAuth: Simplificando a Gestão de Identidade e Credenciais</a> (10/5/2024).</li>
+<li><a href=https://riannegreiros.dev/posts/saml-security-assertion-markup-language-identificacao-e-acesso-corporativo target="_blank" rel="noopener noreferrer">Single Sign-On com SAML: Simplificando o Acesso a Múltiplos Serviços</a> (9/5/2024).</li>
 <li><a href=https://riannegreiros.dev/posts/yarp-yet-another-reverse-proxy target="_blank" rel="noopener noreferrer">YARP: Yet Another Reverse Proxy</a> (3/5/2024).</li>
 <li><a href=https://riannegreiros.dev/posts/building-a-chatbot-with-aspnet-core-8-and-palm-2-api target="_blank" rel="noopener noreferrer">Building a Chatbot with ASP.NET Core 8 and PaLM 2 API</a> (9/2/2024).</li>
-<li><a href=https://riannegreiros.dev/posts/criando-um-chatbot-com-aspnet-core-8-e-palm-2-api target="_blank" rel="noopener noreferrer">Criando um ChatBot com ASP.NET Core 8 e PaLM 2 API</a> (8/2/2024).</li>
-<li><a href=https://riannegreiros.dev/posts/cookies-e-sessoes-no-aspnet-core target="_blank" rel="noopener noreferrer">Cookies e Sessões no ASP.NET Core</a> (26/1/2024).</li></ul>
+<li><a href=https://riannegreiros.dev/posts/criando-um-chatbot-com-aspnet-core-8-e-palm-2-api target="_blank" rel="noopener noreferrer">Criando um ChatBot com ASP.NET Core 8 e PaLM 2 API</a> (8/2/2024).</li></ul>
 <p>Leia mais posts em: <a href="https://www.riannegreiros.dev/posts" target="_blank" rel="noopener noreferrer">riannegreiros.dev/posts</a></p>
 
