@@ -8,7 +8,7 @@ import { fetchRssData } from './fetchRssData'
 
 const blogFeedUrl = 'https://rnds-portfolio-api.azurewebsites.net/api/rss'
 const githubUsername = 'RianNegreiros'
-const websiteUrl = 'https://riannegreiros.dev'
+const websiteUrl = 'https://www.riannegreiros.dev'
 const linkedinUrl = 'https://linkedin.com/in/riannegreiros'
 
 async function generateMarkdown() {
