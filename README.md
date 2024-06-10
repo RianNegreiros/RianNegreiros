@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  [![Website Badge](https://img.shields.io/badge/-Website-3B7EBF?style=for-the-badge&logo=amp&logoColor=white)](https://riannegreiros.dev) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/riannegreiros)
+  [![Website Badge](https://img.shields.io/badge/-Website-3B7EBF?style=for-the-badge&logo=amp&logoColor=white)](https://www.riannegreiros.dev) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/riannegreiros)
 
   ---
 
@@ -24,8 +24,8 @@
 
 ## Posts recentes
 
-<ul><li><a href=https://riannegreiros.dev/posts/oauth-simplificando-a-gestao-de-identidade-e-credenciais target="_blank" rel="noopener noreferrer">OAuth: Simplificando a Gestão de Identidade e Credenciais</a> (10/5/2024).</li>
-<li><a href=https://riannegreiros.dev/posts/saml-security-assertion-markup-language-identificacao-e-acesso-corporativo target="_blank" rel="noopener noreferrer">Single Sign-On com SAML: Simplificando o Acesso a Múltiplos Serviços</a> (9/5/2024).</li>
+<ul><li><a href=https://riannegreiros.dev/posts/oauth-simplificando-a-gestao-de-identidade-e-credenciais target="_blank" rel="noopener noreferrer">Como OAuth funciona</a> (10/5/2024).</li>
+<li><a href=https://riannegreiros.dev/posts/saml-security-assertion-markup-language-identificacao-e-acesso-corporativo target="_blank" rel="noopener noreferrer">Single Sign-On com SAML</a> (9/5/2024).</li>
 <li><a href=https://riannegreiros.dev/posts/yarp-yet-another-reverse-proxy target="_blank" rel="noopener noreferrer">YARP: Yet Another Reverse Proxy</a> (3/5/2024).</li>
 <li><a href=https://riannegreiros.dev/posts/building-a-chatbot-with-aspnet-core-8-and-palm-2-api target="_blank" rel="noopener noreferrer">Creating a Chatbot with ASP.NET Core, Next.js and PaLM API</a> (9/2/2024).</li>
 <li><a href=https://riannegreiros.dev/posts/criando-um-chatbot-com-aspnet-core-8-e-palm-2-api target="_blank" rel="noopener noreferrer">Criando um chatbot com ASP.NET Core, Next.js e API PaLM</a> (8/2/2024).</li></ul>
