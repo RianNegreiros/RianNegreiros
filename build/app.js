@@ -39,9 +39,9 @@ const md = require('markdown-it')({
     linkify: true, // Autoconvert URL-like text to links
 });
 const fetchRssData_1 = require("./fetchRssData");
-const blogFeedUrl = 'https://rnds-portfolio-api.azurewebsites.net/api/rss';
+const blogFeedUrl = 'https://api.riannegreiros.dev/api/rss';
 const githubUsername = 'RianNegreiros';
-const websiteUrl = 'https://riannegreiros.dev';
+const websiteUrl = 'https://www.riannegreiros.dev';
 const linkedinUrl = 'https://linkedin.com/in/riannegreiros';
 function generateMarkdown() {
     return __awaiter(this, void 0, void 0, function* () {
