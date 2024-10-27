@@ -11,13 +11,13 @@
     "format:fix": "prettier --write ."
   },
   "dependencies": {
-    "fs": "^0.0.1-security",
     "markdown-it": "^14.0.0",
-    "rss-parser": "^3.13.0",
-    "tsc-watch": "^6.0.4"
+    "rss-parser": "^3.13.0"
   },
   "devDependencies": {
+    "@types/markdown-it": "^14.1.2",
     "@types/node": "^20.10.5",
-    "prettier": "^3.2.5"
+    "prettier": "^3.2.5",
+    "tsc-watch": "^6.0.4"
   }
 }
