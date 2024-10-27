@@ -39,7 +39,7 @@ const md = require('markdown-it')({
     linkify: true, // Autoconvert URL-like text to links
 });
 const fetchRssData_1 = require("./fetchRssData");
-const blogFeedUrl = 'https://api.riannegreiros.dev/api/rss';
+const blogFeedUrl = 'https://riannegreiros.dev/api/rss';
 const githubUsername = 'RianNegreiros';
 const websiteUrl = 'https://www.riannegreiros.dev';
 const linkedinUrl = 'https://linkedin.com/in/riannegreiros';
@@ -80,6 +80,7 @@ function generateMarkdown() {
 
 ${recentPostsMarkdown}
 `;
+        md.render(markdownText);
         fs.writeFile('README.md', markdownText, (error) => {
             if (error)
                 throw new Error(`Something went wrong: ${error}.`);

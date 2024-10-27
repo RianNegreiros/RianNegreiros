@@ -6,7 +6,7 @@ const md = require('markdown-it')({
 })
 import { fetchRssData } from './fetchRssData'
 
-const blogFeedUrl = 'https://api.riannegreiros.dev/api/rss'
+const blogFeedUrl = 'https://riannegreiros.dev/api/rss'
 const githubUsername = 'RianNegreiros'
 const websiteUrl = 'https://www.riannegreiros.dev'
 const linkedinUrl = 'https://linkedin.com/in/riannegreiros'
@@ -49,6 +49,7 @@ async function generateMarkdown() {
 
 ${recentPostsMarkdown}
 `
+  md.render(markdownText);
 
   fs.writeFile('README.md', markdownText, (error) => {
     if (error) throw new Error(`Something went wrong: ${error}.`)
