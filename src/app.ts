@@ -8,9 +8,9 @@ const md = new MarkdownIt({
   linkify: true,
 })
 
-const blogFeedUrl = 'https://riannegreiros.dev/api/rss'
+const blogFeedUrl = 'https://riannegreiros.xyz/api/rss'
 const githubUsername = 'RianNegreiros'
-const websiteUrl = 'https://www.riannegreiros.dev'
+const websiteUrl = 'https://www.riannegreiros.yxz'
 const linkedinUrl = 'https://linkedin.com/in/riannegreiros'
 
 async function generateMarkdown() {
