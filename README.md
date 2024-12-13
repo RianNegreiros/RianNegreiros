@@ -1,5 +1,5 @@
 <div align="center">
-<p><a href="https://www.riannegreiros.dev"><img src="https://img.shields.io/badge/-Website-3B7EBF?style=for-the-badge&amp;logo=amp&amp;logoColor=white" alt="Website Badge"></a> <a href="https://linkedin.com/in/riannegreiros"><img src="https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" alt="Linkedin Badge"></a></p>
+<p><a href="https://www.riannegreiros.xyz"><img src="https://img.shields.io/badge/-Website-3B7EBF?style=for-the-badge&amp;logo=amp&amp;logoColor=white" alt="Website Badge"></a> <a href="https://linkedin.com/in/riannegreiros"><img src="https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" alt="Linkedin Badge"></a></p>
 <hr>
 <p>Sou um Desenvolvedor Backend do Rio de Janeiro. Iniciei minha jornada na adolescência, configurando servidores e mods para o jogo DayZ usando Batchfile, Linguagem C, XML e JSON. Mas só após terminar o ensino médio, por influência do meu irmão mais velho, que já trabalhava na área, me guiou a escolha de ingressar na faculdade, dedicando-me integralmente a essa carreira.</p>
 <p>Tenho com experiência em Java, C# e Golang. Tenho foco de trabalhar em aplicações empresarias, por isso estudo as tecnologias e frameworks mais utilizados no mercado, como Spring e .NET Core.</p>
@@ -12,9 +12,9 @@
 </div>
 <hr>
 <h2>Posts recentes</h2>
-<ul><li><a href=https://riannegreiros.dev/post/single-sign-on-com-saml target="_blank" rel="noopener noreferrer">Single Sign-On com SAML</a> (9/9/2024).</li>
-<li><a href=https://riannegreiros.dev/post/como-oauth-funciona target="_blank" rel="noopener noreferrer">Como OAuth funciona</a> (10/5/2024).</li>
-<li><a href=https://riannegreiros.dev/post/yarp-yet-another-reverse-proxy target="_blank" rel="noopener noreferrer">YARP: Yet Another Reverse Proxy</a> (3/5/2024).</li>
-<li><a href=https://riannegreiros.dev/post/creating-a-chatbot-with-asp-net-core-next-js-and-palm-api target="_blank" rel="noopener noreferrer">Creating a Chatbot with ASP.NET Core, Next.js and PaLM API</a> (10/2/2024).</li>
-<li><a href=https://riannegreiros.dev/post/criando-um-chatbot-com-asp-net-core-next-js-e-api-palm target="_blank" rel="noopener noreferrer">Criando um chatbot com ASP.NET Core, Next.js e API PaLM</a> (8/2/2024).</li></ul>
-<p>Leia mais posts em: <a href="https://www.riannegreiros.dev" target="_blank" rel="noopener noreferrer">riannegreiros.dev</a></p>
+<ul><li><a href=https://www.riannegreiros.xyz/post/single-sign-on-com-saml target="_blank" rel="noopener noreferrer">Single Sign-On com SAML</a> (9/9/2024).</li>
+<li><a href=https://www.riannegreiros.xyz/post/como-oauth-funciona target="_blank" rel="noopener noreferrer">Como OAuth funciona</a> (10/5/2024).</li>
+<li><a href=https://www.riannegreiros.xyz/post/yarp-yet-another-reverse-proxy target="_blank" rel="noopener noreferrer">YARP: Yet Another Reverse Proxy</a> (3/5/2024).</li>
+<li><a href=https://www.riannegreiros.xyz/post/creating-a-chatbot-with-asp-net-core-next-js-and-palm-api target="_blank" rel="noopener noreferrer">Creating a Chatbot with ASP.NET Core, Next.js and PaLM API</a> (10/2/2024).</li>
+<li><a href=https://www.riannegreiros.xyz/post/criando-um-chatbot-com-asp-net-core-next-js-e-api-palm target="_blank" rel="noopener noreferrer">Criando um chatbot com ASP.NET Core, Next.js e API PaLM</a> (8/2/2024).</li></ul>
+<p>Leia mais posts em: <a href="https://www.riannegreiros.xyz" target="_blank" rel="noopener noreferrer">riannegreiros.xyz</a></p>

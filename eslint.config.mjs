@@ -13,7 +13,7 @@ export default [
       "no-unused-vars": "error",
       "prefer-const": ["error", { ignoreReadBeforeAssign: true }],
     },
-    ignores: [".node_modules/*"]
+    ignores: [".node_modules/*", ".build/*"]
   },
   pluginJs.configs.recommended,
   ...tseslint.configs.recommended,

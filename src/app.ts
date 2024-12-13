@@ -10,7 +10,7 @@ const md = new MarkdownIt({
 
 const blogFeedUrl = 'https://riannegreiros.xyz/api/rss'
 const githubUsername = 'RianNegreiros'
-const websiteUrl = 'https://www.riannegreiros.yxz'
+const websiteUrl = 'https://www.riannegreiros.xyz'
 const linkedinUrl = 'https://linkedin.com/in/riannegreiros'
 
 async function generateMarkdown() {
