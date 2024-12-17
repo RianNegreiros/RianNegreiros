@@ -8,10 +8,10 @@ export async function fetchRssData(url: string): Promise<string> {
     const date = new Date(item.pubDate as string)
     const publishedDate = `${date.getDate()}/${date.getMonth() + 1}/${date.getFullYear()}`
 
-    return `<li><a href="${item.link}" target="_blank" rel="noopener noreferrer">${item.title}</a> (${publishedDate}).</li>`
+    return `<li><a href="${item.link}">${item.title}</a> (${publishedDate}).</li>`
   })
 
-  const readMoreLink = `<p>Leia mais posts em: <a href="https://www.riannegreiros.xyz/posts" target="_blank" rel="noopener noreferrer">riannegreiros.xyz</a></p>`
+  const readMoreLink = `<p>Leia mais posts em: <a href="https://www.riannegreiros.xyz/posts">riannegreiros.xyz</a></p>`
 
   return `<ul>${list.join('\n')}</ul>\n${readMoreLink}\n`
 }
