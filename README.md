@@ -11,6 +11,6 @@
 <ul><li><a href="https://www.riannegreiros.xyz/posts/single-sign-on-com-saml">Single Sign-On com SAML</a> (9/9/2024).</li>
 <li><a href="https://www.riannegreiros.xyz/posts/como-oauth-funciona">Como OAuth funciona</a> (10/5/2024).</li>
 <li><a href="https://www.riannegreiros.xyz/posts/yarp-yet-another-reverse-proxy">YARP: Yet Another Reverse Proxy</a> (3/5/2024).</li>
-<li><a href="https://www.riannegreiros.xyz/posts/criando-um-chatbot-com-asp-net-core-next-js-e-api-palm">Criando um chatbot com ASP.NET Core, Next.js e API PaLM</a> (8/2/2024).</li>
+<li><a href="https://www.riannegreiros.xyz/posts/criando-um-chatbot-com-asp-net-core-next-js-e-google-gemini">Criando um chatbot com ASP.NET Core, Next.js e Google Gemini</a> (8/2/2024).</li>
 <li><a href="https://www.riannegreiros.xyz/posts/cookies-e-sessoes-no-asp-net-core">Cookies e Sessões no ASP.NET Core</a> (26/1/2024).</li></ul>
 <p>Leia mais posts em: <a href="https://www.riannegreiros.xyz/posts">riannegreiros.xyz</a></p>
