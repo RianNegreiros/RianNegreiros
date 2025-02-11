@@ -8,7 +8,7 @@
 </div>
 <hr>
 <h2>Posts recentes</h2>
-<ul><li><a href="https://www.riannegreiros.xyz/posts/criando-um-gerador-de-videos-curtos-com-tecnologia-de-ia">Criando um gerador de vídeos curtos com legendas usando tecnologia de IA</a> (31/1/2025).</li>
+<ul><li><a href="https://www.riannegreiros.xyz/posts/criando-um-gerador-de-videos-curtos-com-tecnologia-de-ia">Criando um gerador de vídeos curtos com legendas usando tecnologia de IA e usando apenas recursos gratuitos</a> (31/1/2025).</li>
 <li><a href="https://www.riannegreiros.xyz/posts/single-sign-on-com-saml">Single Sign-On com SAML</a> (9/9/2024).</li>
 <li><a href="https://www.riannegreiros.xyz/posts/como-oauth-funciona">Como OAuth funciona</a> (10/5/2024).</li>
 <li><a href="https://www.riannegreiros.xyz/posts/yarp-yet-another-reverse-proxy">YARP: Yet Another Reverse Proxy</a> (3/5/2024).</li>
