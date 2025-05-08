@@ -1,17 +1,42 @@
 import Parser from 'rss-parser'
-const parser = new Parser()
+
+interface RssFeedItem {
+  title?: string
+  link?: string
+  pubDate?: string
+}
 
 export async function fetchRssData(url: string): Promise<string> {
-  const feed = await parser.parseURL(url)
+  const parser = new Parser()
 
-  const list = feed.items.slice(0, 5).map((item) => {
-    const date = new Date(item.pubDate as string)
-    const publishedDate = `${date.getDate()}/${date.getMonth() + 1}/${date.getFullYear()}`
+  try {
+    const feed = await parser.parseURL(url)
 
-    return `<li><a href="${item.link}">${item.title}</a> (${publishedDate}).</li>`
-  })
+    const list = feed.items
+      .slice(0, 5)
+      .map((item: RssFeedItem) => {
+        if (!item.title || !item.link || !item.pubDate) {
+          return null // Skip invalid items
+        }
 
-  const readMoreLink = `<p>Leia mais posts em: <a href="https://www.riannegreiros.xyz/posts">riannegreiros.xyz</a></p>`
+        const date = new Date(item.pubDate)
+        if (isNaN(date.getTime())) {
+          return null // Skip items with invalid dates
+        }
 
-  return `<ul>${list.join('\n')}</ul>\n${readMoreLink}\n`
+        const publishedDate = `${date.getDate()}/${date.getMonth() + 1}/${date.getFullYear()}`
+        return `<li><a href="${item.link}">${item.title}</a> (${publishedDate}).</li>`
+      })
+      .filter((item): item is string => item !== null) // Type guard to filter out null items
+
+    if (list.length === 0) {
+      throw new Error('No valid RSS feed items found')
+    }
+
+    const readMoreLink = `<p>Leia mais posts em: <a href="https://www.riannegreiros.xyz/posts">riannegreiros.xyz</a></p>`
+    return `<ul>${list.join('\n')}</ul>\n${readMoreLink}\n`
+  } catch (error) {
+    console.error(`Failed to fetch RSS feed: ${error instanceof Error ? error.message : 'Unknown error'}`)
+    return '<p>Failed to load recent posts. Please visit <a href="https://www.riannegreiros.xyz/posts">riannegreiros.xyz</a> for all posts.</p>'
+  }
 }
