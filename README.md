@@ -13,4 +13,4 @@
 <li><a href="https://www.riannegreiros.xyz/blog/single-sign-on-com-saml">Single Sign-On com SAML</a> (9/9/2024).</li>
 <li><a href="https://www.riannegreiros.xyz/blog/como-oauth-funciona">Como OAuth funciona</a> (10/5/2024).</li>
 <li><a href="https://www.riannegreiros.xyz/blog/yarp-yet-another-reverse-proxy">YARP: Yet Another Reverse Proxy</a> (3/5/2024).</li></ul>
-<p>Leia mais posts em: <a href="https://www.riannegreiros.xyz/posts">riannegreiros.xyz</a></p>
+<p>Leia mais posts em: <a href="https://www.riannegreiros.xyz/blog">riannegreiros.xyz/blog</a></p>
