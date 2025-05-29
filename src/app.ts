@@ -1,14 +1,7 @@
 import fs from 'fs'
 import MarkdownIt from 'markdown-it'
 import { fetchRssData } from './fetchRssData'
-import {
-  blogFeedUrl,
-  githubUsername,
-  websiteUrl,
-  linkedinUrl,
-  linkedinSvgBase64,
-  websiteSvgBase64,
-} from './config'
+import { blogFeedUrl, githubUsername, websiteUrl, linkedinUrl, linkedinSvgBase64, websiteSvgBase64 } from './config'
 
 const md = new MarkdownIt({
   html: true,
