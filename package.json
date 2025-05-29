@@ -4,14 +4,11 @@
   "description": "Rian Negreiros's GitHub Profile",
   "main": "src/app.ts",
   "scripts": {
-    "build": "npx tsc",
-    "build:watch": "npx tsc-watch",
-    "start": "npm run build && node build/app.js",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "lint": "eslint .",
-    "lint:fix": "eslint . --fix",
-    "prettier": "prettier --ignore-path .gitignore --write \"./src/**/*.+(js|ts|json)\"",
-    "prettier:fix": "prettier --write src"
+    "build": "tsc",
+    "dev": "tsc-watch --onSuccess \"node build/app.js\"",
+    "start": "node build/app.js",
+    "lint": "eslint . --fix",
+    "format": "prettier --write \"src/**/*.{js,ts,json}\""
   },
   "dependencies": {
     "markdown-it": "^14.1.0",
