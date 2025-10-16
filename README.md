@@ -8,9 +8,9 @@
 </div>
 <hr>
 <h2>Posts recentes</h2>
-<ul><li><a href="https://www.riannegreiros.xyz/blog/compartilhamento-nativo-em-dispositivos-moveis-no-next-js">Compartilhamento nativo com a Web Share API em projetos Next.js</a> (18/2/2025).</li>
+<ul><li><a href="https://www.riannegreiros.xyz/blog/por-que-voce-deveria-usar-git-pull-rebase-em-vez-do-git-pull-padrao">Por que você deveria usar git pull --rebase em vez do git pull padrão</a> (13/10/2025).</li>
+<li><a href="https://www.riannegreiros.xyz/blog/compartilhamento-nativo-em-dispositivos-moveis-no-next-js">Compartilhamento nativo com a Web Share API em projetos Next.js</a> (18/2/2025).</li>
 <li><a href="https://www.riannegreiros.xyz/blog/criando-um-gerador-de-videos-curtos-com-tecnologia-de-ia">Criando um gerador de vídeos curtos legendados com IA</a> (31/1/2025).</li>
 <li><a href="https://www.riannegreiros.xyz/blog/single-sign-on-com-saml">Single Sign-On com SAML</a> (9/9/2024).</li>
-<li><a href="https://www.riannegreiros.xyz/blog/como-oauth-funciona">Como OAuth funciona</a> (10/5/2024).</li>
-<li><a href="https://www.riannegreiros.xyz/blog/yarp-yet-another-reverse-proxy">YARP: Yet Another Reverse Proxy</a> (3/5/2024).</li></ul>
+<li><a href="https://www.riannegreiros.xyz/blog/como-oauth-funciona">Como OAuth funciona</a> (10/5/2024).</li></ul>
 <p>Leia mais posts em: <a href="https://www.riannegreiros.xyz/blog">riannegreiros.xyz/blog</a></p>
