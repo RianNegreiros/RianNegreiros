@@ -33,10 +33,10 @@ export async function fetchRssData(url: string): Promise<string> {
       throw new Error('No valid RSS feed items found')
     }
 
-    const readMoreLink = `<p>Leia mais posts em: <a href="https://www.riannegreiros.xyz/blog">riannegreiros.xyz/blog</a></p>`
+    const readMoreLink = `<p>Leia mais posts em: <a href="https://www.riannegreiros.com.br/blog">riannegreiros.com.br/blog</a></p>`
     return `<ul>${list.join('\n')}</ul>\n${readMoreLink}\n`
   } catch (error) {
     console.error(`Failed to fetch RSS feed: ${error instanceof Error ? error.message : 'Unknown error'}`)
-    return '<p>Failed to load recent posts. Please visit <a href="https://www.riannegreiros.xyz/blog">riannegreiros.xyz</a> for all posts.</p>'
+    return '<p>Failed to load recent posts. Please visit <a href="https://www.riannegreiros.com.br/blog">riannegreiros.com.br</a> for all posts.</p>'
   }
 }

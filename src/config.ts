@@ -1,6 +1,6 @@
-export const blogFeedUrl = 'https://riannegreiros.xyz/api/rss'
+export const blogFeedUrl = 'https://riannegreiros.com.br/api/rss'
 export const githubUsername = 'RianNegreiros'
-export const websiteUrl = 'https://www.riannegreiros.xyz'
+export const websiteUrl = 'https://www.riannegreiros.com.br'
 export const linkedinUrl = 'https://linkedin.com/in/riannegreiros'
 
 export const linkedinSvgBase64 =
