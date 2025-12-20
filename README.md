@@ -8,9 +8,9 @@
 </div>
 <hr>
 <h2>Posts recentes</h2>
-<ul><li><a href="https://www.riannegreiros.com.br/blog/upload-e-exclusao-de-imagens-no-sprint-boot-com-google-cloud-storage">Upload e Exclusão de Imagens no Sprint Boot com Google Cloud Storage</a> (11/12/2025).</li>
+<ul><li><a href="https://www.riannegreiros.com.br/blog/extensao-chrome-que-resume-texto-com-o-gemini">Extensão Chrome que resume texto com o Gemini</a> (19/12/2025).</li>
+<li><a href="https://www.riannegreiros.com.br/blog/upload-e-exclusao-de-imagens-no-spring-boot-com-google-cloud-storage">Upload e Exclusão de Imagens no Spring Boot com Google Cloud Storage</a> (11/12/2025).</li>
 <li><a href="https://www.riannegreiros.com.br/blog/por-que-voce-deveria-usar-git-pull-rebase-em-vez-do-git-pull-padrao">Por que você deveria usar git pull --rebase em vez do git pull padrão</a> (13/10/2025).</li>
 <li><a href="https://www.riannegreiros.com.br/blog/compartilhamento-nativo-em-dispositivos-moveis-no-next-js">Compartilhamento nativo com a Web Share API em projetos Next.js</a> (18/2/2025).</li>
-<li><a href="https://www.riannegreiros.com.br/blog/criando-um-gerador-de-videos-curtos-com-tecnologia-de-ia">Criando um gerador de vídeos curtos legendados com IA</a> (31/1/2025).</li>
-<li><a href="https://www.riannegreiros.com.br/blog/single-sign-on-com-saml">Single Sign-On com SAML</a> (9/9/2024).</li></ul>
+<li><a href="https://www.riannegreiros.com.br/blog/criando-um-gerador-de-videos-curtos-com-tecnologia-de-ia">Criando um gerador de vídeos curtos legendados com IA</a> (31/1/2025).</li></ul>
 <p>Leia mais posts em: <a href="https://www.riannegreiros.com.br/blog">riannegreiros.com.br/blog</a></p>
