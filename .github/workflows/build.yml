@@ -16,12 +16,16 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '18'
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 8
       - name: Install Dependencies
-        run: npm install
+        run: pnpm install
       - name: Build Application
-        run: npm run build
+        run: pnpm run build
       - name: Rebuild README.md File
-        run: npm run start
+        run: pnpm run start
       - name: Commit and Push if Changed
         run: |-
           git add .
