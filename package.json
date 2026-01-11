@@ -7,17 +7,17 @@
     "build": "tsc",
     "dev": "tsc-watch --onSuccess \"node build/app.js\"",
     "start": "node build/app.js",
+    "generate": "npm run build && npm start",
     "lint": "eslint . --fix",
-    "format": "prettier --write \"src/**/*.{js,ts,json}\""
+    "format": "prettier --write \"src/**/*.{js,ts,json}\"",
+    "clean": "rm -rf build"
   },
   "dependencies": {
-    "markdown-it": "^14.1.0",
     "rss-parser": "^3.13.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.2",
     "@types/eslint": "^9.6.1",
-    "@types/markdown-it": "^14.1.2",
     "@types/node": "^25.0.6",
     "@typescript-eslint/eslint-plugin": "^8.52.0",
     "@typescript-eslint/parser": "^8.52.0",
