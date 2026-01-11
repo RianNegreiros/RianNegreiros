@@ -24,10 +24,19 @@ jobs:
         run: pnpm install
       - name: Generate README
         run: pnpm run generate
-      - name: Commit and Push if Changed
+      - name: Check for changes
+        id: verify-changed-files
         run: |-
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
+      - name: Commit and Push if Changed
+        if: steps.verify-changed-files.outputs.changed == 'true'
+        run: |-
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
           git add .
-          git config --global user.email "riannegreiros@gmail.com"
-          git config --global user.name "Rian Negreiros Dos Santos"
-          git diff --staged --quiet || git commit -m "docs: auto-update README.md"
+          git commit -m "docs: auto-update README.md"
           git push
