@@ -1,42 +1,38 @@
 import Parser from 'rss-parser'
 
-interface RssFeedItem {
+interface RssItem {
   title?: string
   link?: string
   pubDate?: string
 }
 
 export async function fetchRssData(url: string): Promise<string> {
-  const parser = new Parser()
-
   try {
+    const parser = new Parser()
     const feed = await parser.parseURL(url)
 
-    const list = feed.items
+    const posts = feed.items
       .slice(0, 5)
-      .map((item: RssFeedItem) => {
-        if (!item.title || !item.link || !item.pubDate) {
-          return null
-        }
+      .map((item: RssItem) => {
+        if (!item.title || !item.link || !item.pubDate) return null
 
         const date = new Date(item.pubDate)
-        if (isNaN(date.getTime())) {
-          return null
-        }
+        if (isNaN(date.getTime())) return null
 
-        const publishedDate = `${date.getDate()}/${date.getMonth() + 1}/${date.getFullYear()}`
-        return `<li><a href="${item.link}">${item.title}</a> (${publishedDate}).</li>`
+        const formattedDate = `${date.getDate()}/${date.getMonth() + 1}/${date.getFullYear()}`
+        return `- [${item.title}](${item.link}) (${formattedDate})`
       })
-      .filter((item): item is string => item !== null)
+      .filter(Boolean)
 
-    if (list.length === 0) {
-      throw new Error('No valid RSS feed items found')
+    if (posts.length === 0) {
+      return 'Nenhum post encontrado. Visite [riannegreiros.com.br/blog](https://www.riannegreiros.com.br/blog) para ver todos os posts.'
     }
 
-    const readMoreLink = `<p>Leia mais posts em: <a href="https://www.riannegreiros.com.br/blog">riannegreiros.com.br/blog</a></p>`
-    return `<ul>${list.join('\n')}</ul>\n${readMoreLink}\n`
+    return (
+      posts.join('\n') + '\n\nLeia mais posts em: [riannegreiros.com.br/blog](https://www.riannegreiros.com.br/blog)'
+    )
   } catch (error) {
-    console.error(`Failed to fetch RSS feed: ${error instanceof Error ? error.message : 'Unknown error'}`)
-    return '<p>Failed to load recent posts. Please visit <a href="https://www.riannegreiros.com.br/blog">riannegreiros.com.br</a> for all posts.</p>'
+    console.error('RSS fetch error:', error)
+    return 'Erro ao carregar posts. Visite [riannegreiros.com.br/blog](https://www.riannegreiros.com.br/blog) para ver todos os posts.'
   }
 }
