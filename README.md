@@ -12,10 +12,4 @@
 
 ## Posts recentes
 
-- [Extensão Chrome que resume texto com o Gemini](https://www.riannegreiros.com.br/blog/extensao-chrome-que-resume-texto-com-o-gemini) (19/12/2025)
-- [Upload e Exclusão de Imagens no Spring Boot com Google Cloud Storage](https://www.riannegreiros.com.br/blog/upload-e-exclusao-de-imagens-no-spring-boot-com-google-cloud-storage) (11/12/2025)
-- [Por que você deveria usar git pull --rebase em vez do git pull padrão](https://www.riannegreiros.com.br/blog/por-que-voce-deveria-usar-git-pull-rebase-em-vez-do-git-pull-padrao) (13/10/2025)
-- [Compartilhamento nativo com a Web Share API em projetos Next.js](https://www.riannegreiros.com.br/blog/compartilhamento-nativo-em-dispositivos-moveis-no-next-js) (18/2/2025)
-- [Criando um gerador de vídeos curtos legendados com IA](https://www.riannegreiros.com.br/blog/criando-um-gerador-de-videos-curtos-com-tecnologia-de-ia) (31/1/2025)
-
-Leia mais posts em: [riannegreiros.com.br/blog](https://www.riannegreiros.com.br/blog)
+Erro ao carregar posts. Visite [riannegreiros.com.br/blog](https://www.riannegreiros.com.br/blog) para ver todos os posts.
