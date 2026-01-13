@@ -1,4 +1,4 @@
-export const blogFeedUrl = 'https://riannegreiros.com.br/rss'
+export const blogFeedUrl = 'https://riannegreiros.com.br/rss.xml'
 export const githubUsername = 'RianNegreiros'
 export const websiteUrl = 'https://www.riannegreiros.com.br'
 export const linkedinUrl = 'https://linkedin.com/in/riannegreiros'
