@@ -21,7 +21,7 @@ const createGitHubStats = (theme: 'dark' | 'light') => {
   })
 
   const modeFragment = `#gh-${theme}-mode-only`
-  const url = `https://github-readme-stats-9l7g.vercel.app//api?${params}${modeFragment}`
+  const url = `https://github-readme-stats-9l7g.vercel.app/api?${params}${modeFragment}`
   const linkUrl = `https://github.com/${githubUsername}/${githubUsername}${modeFragment}`
 
   return `[![GitHub Stats](${url})](${linkUrl})`
@@ -39,10 +39,11 @@ const createLanguageStatsHelper = (theme: 'dark' | 'light') => {
     text_color: textColor,
     icon_color: '3B7EBF',
     theme: 'transparent',
+    hide: 'typescript'
   })
 
   const modeFragment = `#gh-${theme}-mode-only`
-  const url = `https://github-readme-stats-9l7g.vercel.app//api/top-langs?${params}${modeFragment}`
+  const url = `https://github-readme-stats-9l7g.vercel.app/api/top-langs?${params}${modeFragment}`
   const linkUrl = `https://github.com/${githubUsername}/${githubUsername}${modeFragment}`
 
   return `[![Top Languages](${url})](${linkUrl})`
