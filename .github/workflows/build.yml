@@ -15,28 +15,18 @@ jobs:
       - name: Use Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
-      - name: Setup pnpm
-        uses: pnpm/action-setup@v4
-        with:
-          version: 9
+          node-version: '18'
       - name: Install Dependencies
-        run: pnpm install
-      - name: Generate README
-        run: pnpm run generate
-      - name: Check for changes
-        id: verify-changed-files
-        run: |-
-          if [ -n "$(git status --porcelain)" ]; then
-            echo "changed=true" >> $GITHUB_OUTPUT
-          else
-            echo "changed=false" >> $GITHUB_OUTPUT
-          fi
+        run: npm install
+      - name: Build Application
+        run: npm run build
+      - name: Rebuild README.md File
+        run: npm run start
       - name: Commit and Push if Changed
-        if: steps.verify-changed-files.outputs.changed == 'true'
         run: |-
-          git config --global user.email "action@github.com"
-          git config --global user.name "GitHub Action"
           git add .
-          git commit -m "docs: auto-update README.md"
+          git diff
+          git config --global user.email "riannegreiros@gmail.com"
+          git config --global user.name "Rian Negreiros Dos Santos"
+          git commit -m "docs: auto-update README.md" -a || exit 0
           git push
