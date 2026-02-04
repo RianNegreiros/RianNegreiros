@@ -6,8 +6,8 @@
 
 [![GitHub Stats](https://github-readme-stats-9l7g.vercel.app/api?username=RianNegreiros&show_icons=true&hide_border=true&include_all_commits=true&card_width=600&custom_title=GitHub+Open+Source+Stats&title_color=3B7EBF&text_color=FFF&icon_color=3B7EBF&hide=contribs&show=reviews%2Cprs_merged%2Cprs_merged_percentage&theme=transparent#gh-dark-mode-only)](https://github.com/RianNegreiros/RianNegreiros#gh-dark-mode-only)
 [![GitHub Stats](https://github-readme-stats-9l7g.vercel.app/api?username=RianNegreiros&show_icons=true&hide_border=true&include_all_commits=true&card_width=600&custom_title=GitHub+Open+Source+Stats&title_color=3B7EBF&text_color=474A4E&icon_color=3B7EBF&hide=contribs&show=reviews%2Cprs_merged%2Cprs_merged_percentage&theme=transparent#gh-light-mode-only)](https://github.com/RianNegreiros/RianNegreiros#gh-light-mode-only)
-[![Top Languages](https://github-readme-stats-9l7g.vercel.app/api/top-langs?username=RianNegreiros&layout=compact&hide_border=true&card_width=600&custom_title=GitHub+Languages+Stats&title_color=3B7EBF&text_color=FFF&icon_color=3B7EBF&theme=transparent&hide=typescript#gh-dark-mode-only)](https://github.com/RianNegreiros/RianNegreiros#gh-dark-mode-only)
-[![Top Languages](https://github-readme-stats-9l7g.vercel.app/api/top-langs?username=RianNegreiros&layout=compact&hide_border=true&card_width=600&custom_title=GitHub+Languages+Stats&title_color=3B7EBF&text_color=474A4E&icon_color=3B7EBF&theme=transparent&hide=typescript#gh-light-mode-only)](https://github.com/RianNegreiros/RianNegreiros#gh-light-mode-only)
+[![Top Languages](https://github-readme-stats-9l7g.vercel.app/api/top-langs?username=RianNegreiros&layout=compact&hide_border=true&card_width=600&custom_title=GitHub+Languages+Stats&title_color=3B7EBF&text_color=FFF&icon_color=3B7EBF&theme=transparent&hide=typescript%2Cjavascript#gh-dark-mode-only)](https://github.com/RianNegreiros/RianNegreiros#gh-dark-mode-only)
+[![Top Languages](https://github-readme-stats-9l7g.vercel.app/api/top-langs?username=RianNegreiros&layout=compact&hide_border=true&card_width=600&custom_title=GitHub+Languages+Stats&title_color=3B7EBF&text_color=474A4E&icon_color=3B7EBF&theme=transparent&hide=typescript%2Cjavascript#gh-light-mode-only)](https://github.com/RianNegreiros/RianNegreiros#gh-light-mode-only)
 </div>
 
 ## Posts recentes
@@ -15,7 +15,7 @@
 - [Implementando Redefinição de Senha com Spring Security 6](https://www.riannegreiros.com.br/blog/implementando-reset-de-senha-com-spring-security-6) (2/2/2026)
 - [Extensão Chrome que resume texto com o Gemini](https://www.riannegreiros.com.br/blog/extensao-chrome-que-resume-texto-com-o-gemini) (19/12/2025)
 - [Upload e Exclusão de Imagens no Spring Boot com Google Cloud Storage](https://www.riannegreiros.com.br/blog/upload-e-exclusao-de-imagens-no-spring-boot-com-google-cloud-storage) (11/12/2025)
-- [Por que você deveria usar git pull --rebase em vez do git pull padrão](https://www.riannegreiros.com.br/blog/por-que-voce-deveria-usar-git-pull-rebase-em-vez-do-git-pull-padrao) (13/10/2025)
 - [Criando um gerador de vídeos curtos legendados com IA](https://www.riannegreiros.com.br/blog/criando-um-gerador-de-videos-curtos-com-tecnologia-de-ia) (31/1/2025)
+- [Single Sign-On com SAML](https://www.riannegreiros.com.br/blog/single-sign-on-com-saml) (9/9/2024)
 
 Leia mais posts em: [riannegreiros.com.br/blog](https://www.riannegreiros.com.br/blog)
