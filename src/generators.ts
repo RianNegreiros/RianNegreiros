@@ -39,7 +39,7 @@ const createLanguageStatsHelper = (theme: 'dark' | 'light') => {
     text_color: textColor,
     icon_color: '3B7EBF',
     theme: 'transparent',
-    hide: 'typescript'
+    hide: 'typescript,javascript',
   })
 
   const modeFragment = `#gh-${theme}-mode-only`
