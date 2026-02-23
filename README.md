@@ -13,7 +13,7 @@
 ## Posts recentes
 
 - [Implementando Redefinição de Senha com Spring Security 6](https://www.riannegreiros.com.br/blog/implementando-reset-de-senha-com-spring-security-6) (2/2/2026)
-- [Extensão Chrome que resume texto com o Gemini](https://www.riannegreiros.com.br/blog/extensao-chrome-que-resume-texto-com-o-gemini) (19/12/2025)
+- [Criando uma extensão para o Chrome que resume conteúdo com o Gemini e Java Spring](https://www.riannegreiros.com.br/blog/extensao-chrome-que-resume-texto-com-o-gemini) (19/12/2025)
 - [Upload e Exclusão de Imagens no Spring Boot com Google Cloud Storage](https://www.riannegreiros.com.br/blog/upload-e-exclusao-de-imagens-no-spring-boot-com-google-cloud-storage) (11/12/2025)
 - [Criando um gerador de vídeos curtos legendados com IA](https://www.riannegreiros.com.br/blog/criando-um-gerador-de-videos-curtos-com-tecnologia-de-ia) (31/1/2025)
 - [Single Sign-On com SAML](https://www.riannegreiros.com.br/blog/single-sign-on-com-saml) (9/9/2024)
