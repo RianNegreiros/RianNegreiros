@@ -12,10 +12,10 @@
 
 ## Posts recentes
 
-- [Autenticação com JWT: RSA Keys vs HMAC256 no Spring Security](https://www.riannegreiros.com.br/blog/jwt-authentication-rsa-keys-vs-hmac256-no-spring-security) (27/2/2026)
-- [Implementando Redefinição de Senha com Spring Security 6](https://www.riannegreiros.com.br/blog/implementando-reset-de-senha-com-spring-security-6) (2/2/2026)
-- [Criando uma extensão para o Chrome que resume conteúdo com o Gemini e Java Spring](https://www.riannegreiros.com.br/blog/extensao-chrome-que-resume-texto-com-o-gemini) (19/12/2025)
-- [Upload e Exclusão de Imagens no Spring Boot com Google Cloud Storage](https://www.riannegreiros.com.br/blog/upload-e-exclusao-de-imagens-no-spring-boot-com-google-cloud-storage) (11/12/2025)
-- [Criando um gerador de vídeos curtos legendados com IA](https://www.riannegreiros.com.br/blog/criando-um-gerador-de-videos-curtos-com-tecnologia-de-ia) (31/1/2025)
+- [Autenticação com JWT: RSA Keys vs HMAC256 no Spring Security](https://riannegreiros.com.br/blog/jwt-authentication-rsa-keys-vs-hmac256-no-spring-security/) (27/2/2026)
+- [Implementando Redefinição de Senha com Spring Security 6](https://riannegreiros.com.br/blog/implementando-reset-de-senha-com-spring-security-6/) (2/2/2026)
+- [Criando uma extensão para o Chrome que resume conteúdo com o Gemini e Java Spring](https://riannegreiros.com.br/blog/extensao-chrome-que-resume-texto-com-o-gemini/) (19/12/2025)
+- [Upload e Exclusão de Imagens no Spring Boot com Google Cloud Storage](https://riannegreiros.com.br/blog/upload-e-exclusao-de-imagens-no-spring-boot-com-google-cloud-storage/) (11/12/2025)
+- [Criando um gerador de vídeos curtos legendados com IA](https://riannegreiros.com.br/blog/criando-um-gerador-de-videos-curtos-com-tecnologia-de-ia/) (31/1/2025)
 
 Leia mais posts em: [riannegreiros.com.br/blog](https://www.riannegreiros.com.br/blog)
